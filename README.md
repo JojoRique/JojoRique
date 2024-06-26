@@ -8,6 +8,12 @@
 
 ###
 
+###
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JojoRique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JojoRique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -38,12 +44,6 @@
 <div align="center">
   <img height="400" src="https://cdn.dribbble.com/users/1998669/screenshots/6072112/media/7817ff031bb237b64884b6c25874089f.gif"  />
 </div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple"  />
-
-###
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
