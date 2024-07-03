@@ -1,17 +1,19 @@
-<div align="center">
-  <img height="300" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzYxMzQsIm5iZiI6MTcyMDAzNTgzNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5NDM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyMTA1OGZmNzZiMGFiMTE4N2U5MzEyYmVhNTNmMTNiYTkyMjNjZGM1OWFjOThhNGJlN2RiMWM2YTUxZWE1Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6ozuxLrQRPWMzf3LCTkBig51_5jWU2ck8JqwsoCRqVk"  />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    <img height="300" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzYxMzQsIm5iZiI6MTcyMDAzNTgzNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5NDM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyMTA1OGZmNzZiMGFiMTE4N2U5MzEyYmVhNTNmMTNiYTkyMjNjZGM1OWFjOThhNGJlN2RiMWM2YTUxZWE1Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6ozuxLrQRPWMzf3LCTkBig51_5jWU2ck8JqwsoCRqVk" />
+  </div>
+  <div style="margin-left: 20px;">
+    <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Mechanical%20Arm.webp" alt="Mechanical Arm" width="25" height="25" /> About Me :</h3>
+    <h6>🎓 I'm currently in my 3rd year of Software Engineering at university and have a degree in Analysis and Systems Development.<br>💼 I'm currently working as a data analyst.<br>📚 I'm currently learning SQL, Node.js, JavaScript, Python, Next.js, Power BI, and I want to learn React and TypeScript.<br>⏳ In my free time, I enjoy playing games and reading good books.</h6>
+  </div>
 </div>
-<br clear="both">
-<hr>
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Mechanical%20Arm.webp" alt="Mechanical Arm" width="25" height="25" /> About Me :</h3>
-<br clear="both">
 
 <a href="https://git.io/typing-svg"> 
   <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
 </a>
 
-<h6 align="left">🎓 I'm currently in my 3rd year of Software Engineering at university and have a degree in Analysis and Systems Development.<br>💼 I'm currently working as a data analyst.<br>📚 I'm currently learning SQL, Node.js, JavaScript, Python, Next.js, Power BI, and I want to learn React and TypeScript.<br>⏳ In my free time, I enjoy playing games and reading good books.</h6>
 <hr>
+
 
 
 <h3 align="left"><<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Teacher.webp" alt="Man Teacher" width="25" height="25" /> My Stats </h3>
