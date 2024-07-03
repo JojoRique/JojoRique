@@ -23,7 +23,10 @@
   <br>📚 I'm currently learning SQL, Node.js, JavaScript, Python, Next.js, Power BI, and I want to learn React and TypeScript.
   <br>⏳ In my free time, I enjoy playing games and reading good books </p>
 
-<hr>
+###
+
+<br clear="both">
+
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Teacher.webp" alt="Man Teacher" width="25" height="25" /> My Stats: </h3>
 <br>
