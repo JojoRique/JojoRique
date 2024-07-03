@@ -1,28 +1,18 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>
-      Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and a beginner in the programming career 💻. I'm currently in my 3rd year of Software Engineering 🧑‍🎓. I love exploring new technologies and have a big dream of one day working with Artificial Intelligence 🤖 or DevOps ⚙️.<br><br>I'm a passionate learner, always willing to learn and work across various technological domains 🌐. I believe in the power of technology to solve real-life problems and improve people's lives 🌟.<br><br>📚 What I'm currently doing:<br><br>Studying and developing skills in programming and software engineering<br>Exploring concepts of AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies and tools<br>Solving complex problems with creative solutions<br>Collaborating with other developers and sharing knowledge<br>Let's connect and share ideas about technology and innovation! 🚀
-    </p>
-  </div>
-  <div style="flex: 0 0 auto;">
-    <img height="400" src="https://cdn.dribbble.com/users/2275151/screenshots/4543119/media/1079848698ed2db6a82c64fb5c2d3b1b.gif" />
-  </div>
+<div align="center">
+  <img height="300" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzYxMzQsIm5iZiI6MTcyMDAzNTgzNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5NDM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyMTA1OGZmNzZiMGFiMTE4N2U5MzEyYmVhNTNmMTNiYTkyMjNjZGM1OWFjOThhNGJlN2RiMWM2YTUxZWE1Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6ozuxLrQRPWMzf3LCTkBig51_5jWU2ck8JqwsoCRqVk"  />
 </div>
 
----
 ###
 
-
-<div align="center">
-<img  src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple"  />
-</div>
-
+<h6 align="left">Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and beginner programmer 💻. Currently, I'm in my 3rd year of Software Engineering and have a degree in Analysis and Systems Development (ADS) 🎓. I love exploring new technologies and dream of working in AI 🤖 or DevOps ⚙️.<br><br>📚 What I'm doing:<br><br>Studying programming and software engineering<br>Exploring AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies<br>Solving complex problems<br>Collaborating and sharing knowledge<br>Let's connect and share ideas about tech and innovation! 🚀</h6>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JojoRique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JojoRique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JojoRique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JojoRique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JojoRique&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JojoRique&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -43,6 +33,12 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://cdn.dribbble.com/users/1998669/screenshots/6072112/media/7817ff031bb237b64884b6c25874089f.gif"  />
 </div>
 
 ###
