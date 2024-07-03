@@ -35,14 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="400" src="https://cdn.dribbble.com/users/1998669/screenshots/6072112/media/7817ff031bb237b64884b6c25874089f.gif"  />
-</div>
-
-###
-
 ---
 
 <div align="center">
