@@ -2,6 +2,8 @@
   <img height="300" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzYxMzQsIm5iZiI6MTcyMDAzNTgzNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5NDM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyMTA1OGZmNzZiMGFiMTE4N2U5MzEyYmVhNTNmMTNiYTkyMjNjZGM1OWFjOThhNGJlN2RiMWM2YTUxZWE1Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6ozuxLrQRPWMzf3LCTkBig51_5jWU2ck8JqwsoCRqVk"  />
 </div>
 
+---
+
 ###
 
 <p align="left">Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and beginner programmer 💻. Currently, I'm in my 3rd year of Software Engineering and have a degree in Analysis and Systems Development (ADS) 🎓. I love exploring new technologies and dream of working in AI 🤖 or DevOps ⚙️.<br><br>📚 What I'm doing:<br><br>Studying programming and software engineering<br>Exploring AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies<br>Solving complex problems<br>Collaborating and sharing knowledge<br>Let's connect and share ideas about tech and innovation! 🚀</p>
@@ -15,7 +17,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JojoRique&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
