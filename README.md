@@ -1,16 +1,13 @@
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
       Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and a beginner in the programming career 💻. I'm currently in my 3rd year of Software Engineering 🧑‍🎓. I love exploring new technologies and have a big dream of one day working with Artificial Intelligence 🤖 or DevOps ⚙️.<br><br>I'm a passionate learner, always willing to learn and work across various technological domains 🌐. I believe in the power of technology to solve real-life problems and improve people's lives 🌟.<br><br>📚 What I'm currently doing:<br><br>Studying and developing skills in programming and software engineering<br>Exploring concepts of AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies and tools<br>Solving complex problems with creative solutions<br>Collaborating with other developers and sharing knowledge<br>Let's connect and share ideas about technology and innovation! 🚀
     </p>
   </div>
-  <div>
+  <div style="flex: 0 0 auto;">
     <img height="400" src="https://cdn.dribbble.com/users/2275151/screenshots/4543119/media/1079848698ed2db6a82c64fb5c2d3b1b.gif" />
   </div>
 </div>
-
-
-
 
 ---
 ###
