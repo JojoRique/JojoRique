@@ -4,9 +4,10 @@
   </div>
 
 <br clear="both">
-
+###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F+%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9D&weight=500&size=17&duration=4000&pause=2000&color=FFFFFF&random=false&width=435&lines=Hey+there%F0%9F%91%8B;I'm+Henrique+Camargo%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
+<br>
 
 <h2 align="center">🎓 I'm currently in my 3rd year of Software Engineering at university and have a degree in Analysis and Systems Development.<br>💼 I'm currently working as a data analyst.<br>📚 I'm currently learning SQL, Node.js, JavaScript, Python, Next.js, Power BI, and I want to learn React and TypeScript.<br>⏳ In my free time, I enjoy playing games and reading good books.</h2>
 
