@@ -43,9 +43,11 @@
 
 
 ###
-<div align="center" 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple"/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple" />
 </div>
+
 ###
 ---
 
