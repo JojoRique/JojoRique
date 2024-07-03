@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Teacher.webp" alt="Man Teacher" width="25" height="25" /> My Stats</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Teacher.webp" alt="Man Teacher" width="25" height="25" /> My Stats: </h3>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JojoRique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -36,6 +36,8 @@
 
 ---
 <h3 align="left"><<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Tech Skills: </h3>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
