@@ -5,7 +5,8 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9F+%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9D&weight=500&size=17&duration=4000&pause=2000&color=FFFFFF&random=false&width=435&lines=Hey+there%F0%9F%91%8B;I'm+Henrique+Camargo%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<h3 align="left"><img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)" width="25" height="25" />  About Me :</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me :</h3>
+
 
 ###
 
