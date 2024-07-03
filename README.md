@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and beginner programmer 💻. Currently, I'm in my 3rd year of Software Engineering and have a degree in Analysis and Systems Development (ADS) 🎓. I love exploring new technologies and dream of working in AI 🤖 or DevOps ⚙️.<br><br>📚 What I'm doing:<br><br>Studying programming and software engineering<br>Exploring AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies<br>Solving complex problems<br>Collaborating and sharing knowledge<br>Let's connect and share ideas about tech and innovation! 🚀</h6>
+<p align="left">Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and beginner programmer 💻. Currently, I'm in my 3rd year of Software Engineering and have a degree in Analysis and Systems Development (ADS) 🎓. I love exploring new technologies and dream of working in AI 🤖 or DevOps ⚙️.<br><br>📚 What I'm doing:<br><br>Studying programming and software engineering<br>Exploring AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies<br>Solving complex problems<br>Collaborating and sharing knowledge<br>Let's connect and share ideas about tech and innovation! 🚀</p>
 
 ###
 
@@ -41,6 +41,13 @@
   <img height="400" src="https://cdn.dribbble.com/users/1998669/screenshots/6072112/media/7817ff031bb237b64884b6c25874089f.gif"  />
 </div>
 
+
+
+###
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JojoRique.JojoRique&left_color=purple&right_color=purple"  />
+
+###
 ---
 
 <div align="center">
