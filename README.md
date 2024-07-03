@@ -12,7 +12,7 @@
 
 <h6 align="left">🎓 I'm currently in my 3rd year of Software Engineering at university and have a degree in Analysis and Systems Development.<br>💼 I'm currently working as a data analyst.<br>📚 I'm currently learning SQL, Node.js, JavaScript, Python, Next.js, Power BI, and I want to learn React and TypeScript.<br>⏳ In my free time, I enjoy playing games and reading good books.</h6>
 ---
-###
+
 
 <h3 align="left"><<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Teacher.webp" alt="Man Teacher" width="25" height="25" /> My Stats </h3>
 <div align="center">
