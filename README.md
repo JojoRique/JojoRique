@@ -8,6 +8,7 @@
 
 <p align="left">Hello! 👋<br>I'm Henrique Camargo, a tech enthusiast and beginner programmer 💻. Currently, I'm in my 3rd year of Software Engineering and have a degree in Analysis and Systems Development (ADS) 🎓. I love exploring new technologies and dream of working in AI 🤖 or DevOps ⚙️.<br><br>📚 What I'm doing:<br><br>Studying programming and software engineering<br>Exploring AI and DevOps<br>Participating in web and mobile development projects<br>🌱 What I enjoy:<br><br>Experimenting with new technologies<br>Solving complex problems<br>Collaborating and sharing knowledge<br>Let's connect and share ideas about tech and innovation! 🚀</p>
 
+---
 ###
 
 <div align="center">
