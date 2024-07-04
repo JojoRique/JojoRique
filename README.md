@@ -40,7 +40,7 @@
 </div>
 
 ---
-<h3 align="left"><<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Tech Skills: </h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Tech Skills: </h3>
 
 <br>
 
